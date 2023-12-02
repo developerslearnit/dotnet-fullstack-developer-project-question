@@ -20,9 +20,9 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 - Ensure a smooth user experience with AJAX or other relevant technologies.
 
 ### User Authentication
--- Implement user authentication to differentiate between different users.
--- Ensure that only authenticated users can create, update, or delete tasks.
--- Users should only see and manage tasks assigned to them.
+- Implement user authentication to differentiate between different users.
+- Ensure that only authenticated users can create, update, or delete tasks.
+- Users should only see and manage tasks assigned to them.
 
 ### Best Practices
 - Follow RESTful API principles for backend development.

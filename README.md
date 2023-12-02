@@ -7,6 +7,7 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 
 ### Backend
 - Use ASP.NET Core for the backend.
+- Adhere to N-Tier Architecture for better code organization.
 - Implement a relational database to store task data (e.g., SQL Server, MySQL, or SQLite).
 - Include appropriate database relationships to handle tasks, users, and task assignments.
 - Implement CRUD operations for tasks.
@@ -26,6 +27,7 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 
 ### Best Practices
 - Follow RESTful API principles for backend development.
+- Follow best practices in ASP.NET Core MVC development.
 - Follow N-Tier Project Design
 - Apply SOLID principles and design patterns in your code.
 - Use Entity Framework or a similar ORM for database interactions.
@@ -43,9 +45,11 @@ Share your project source code via a version control platform (e.g., GitHub) and
 Your project will be evaluated based on the following criteria:
 
 - Correct implementation of features.
+- Adherence to N-Tier Architecture and best practices.
 - Code structure, organization, and readability.
 - Adherence to best practices and coding standards.
 - User interface design and responsiveness.
 - Handling of edge cases and errors.
+- Documentation quality and clarity.
 
 Good luck!

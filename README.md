@@ -7,11 +7,12 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 
 ### Backend
 - Use ASP.NET Core for the backend.
-Implement a relational database to store task data (e.g., SQL Server, MySQL, or SQLite).
-Include appropriate database relationships to handle tasks, users, and task assignments.
-Implement CRUD operations for tasks.
-Ensure proper error handling and validation.
-Frontend
+- Implement a relational database to store task data (e.g., SQL Server, MySQL, or SQLite).
+- Include appropriate database relationships to handle tasks, users, and task assignments.
+- Implement CRUD operations for tasks.
+- Ensure proper error handling and validation.
+
+### Frontend
 Use HTML, CSS, and JavaScript for the frontend.
 Develop a clean and responsive user interface for managing tasks.
 Implement views for creating, updating, and deleting tasks.

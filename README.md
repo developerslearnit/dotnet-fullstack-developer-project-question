@@ -5,7 +5,7 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 
 ## Technical Requirements
 
-###Backend
+### Backend
 -Use ASP.NET Core for the backend.
 Implement a relational database to store task data (e.g., SQL Server, MySQL, or SQLite).
 Include appropriate database relationships to handle tasks, users, and task assignments.

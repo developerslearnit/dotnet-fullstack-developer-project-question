@@ -1,4 +1,4 @@
-# Project Question for Full Stack .NET Developer: Building a Task Management System
+ # Project Question for Full Stack .NET Developer: Building a Task Management System
 ---
 ## Project Overview
 You are tasked with developing a Task Management System for a small-to-medium-sized company. The system should allow users to create, view, update, and delete tasks. Additionally, users should be able to assign tasks to specific individuals and set due dates. The application needs to be well-organized, follow clean coding principles, and adhere to best practices in both the backend and frontend development.
@@ -6,7 +6,7 @@ You are tasked with developing a Task Management System for a small-to-medium-si
 ## Technical Requirements
 
 ### Backend
--Use ASP.NET Core for the backend.
+- Use ASP.NET Core for the backend.
 Implement a relational database to store task data (e.g., SQL Server, MySQL, or SQLite).
 Include appropriate database relationships to handle tasks, users, and task assignments.
 Implement CRUD operations for tasks.
